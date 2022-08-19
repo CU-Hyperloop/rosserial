@@ -12,7 +12,7 @@ Where <ws> is the Catkin workspace you want to install into:
   catkin_make install
 ```
 
-# rosserial
+# rosserial - Original
 
 [![Build Status](https://travis-ci.org/ros-drivers/rosserial.svg?branch=melodic-devel)](https://travis-ci.org/ros-drivers/rosserial)
 
