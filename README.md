@@ -6,7 +6,7 @@ Where <ws> is the Catkin workspace you want to install into:
 
 ```
   cd <ws>/src
-  git clone https://github.com/ros-drivers/rosserial.git
+  git clone https://github.com/CU-Hyperloop/rosserial.git
   cd <ws>
   catkin_make
   catkin_make install
